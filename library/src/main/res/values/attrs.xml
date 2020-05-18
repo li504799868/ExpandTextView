@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <attr name="collapsed" format="boolean" />
+        <attr name="collapsedMaxLine" format="integer" />
+        <attr name="collapsedColor" format="color" />
+        <attr name="collapsedUnderLine" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='ExpandTextView'
+include ':app'
+include ':library'
